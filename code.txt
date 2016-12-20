@@ -1,0 +1,5 @@
+ya tipa programist (Shos primayem){
+//tut tipa biznes logig
+
+return shos povertayem;
+}
